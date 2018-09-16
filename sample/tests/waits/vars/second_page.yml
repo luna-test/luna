@@ -1,0 +1,6 @@
+---
+
+second:
+  url: "{{ base_url }}/dynamic_loading/2"
+  btn_start: css=div#start > button
+  hello: css=div#finish > h4
